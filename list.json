@@ -1,0 +1,18 @@
+[
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "AlderLake",
+    "name": "ADL-S_6+0",
+    "listname": "ADL-S 6+0",
+    "url": "https://misdake.github.io/ChipAnnotationData7/ADL-S_6+0"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "AlderLake",
+    "name": "Golden_Cove_Core",
+    "listname": "Golden Cove Core",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Golden_Cove_Core"
+  }
+]

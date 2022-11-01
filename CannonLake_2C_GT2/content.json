@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "CannonLake",
+  "name": "CannonLake_2C_GT2",
+  "githubRepo": "misdake/ChipAnnotationData7",
+  "githubIssueId": 7,
+  "source": "https://www.flickr.com/photos/130561288@N04/52464621807",
+  "createTime": "Nov 1, 2022 1:20:26 PM",
+  "width": 7155,
+  "height": 7480,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 14,
+      "yMax": 15
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 8
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.239,
+  "heightMillimeter": 8.617
+}

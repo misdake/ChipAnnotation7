@@ -18,6 +18,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "CannonLake",
+    "name": "CannonLake_2C_GT2",
+    "listname": "CannonLake_2C_GT2",
+    "url": "https://misdake.github.io/ChipAnnotationData7/CannonLake_2C_GT2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "RaptorLake",
     "name": "Gracemont_Cluster",
     "listname": "Gracemont Cluster",

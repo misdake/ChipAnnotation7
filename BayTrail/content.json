@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Atom",
+  "name": "Silvermont(BayTrail)",
+  "githubRepo": "misdake/ChipAnnotationData7",
+  "githubIssueId": 11,
+  "source": "https://www.flickr.com/photos/187597251@N05/52975059507",
+  "createTime": "Jun 17, 2023 5:37:51 AM",
+  "width": 31601,
+  "height": 29317,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 62,
+      "yMax": 58
+    },
+    {
+      "level": 1,
+      "xMax": 31,
+      "yMax": 29
+    },
+    {
+      "level": 2,
+      "xMax": 16,
+      "yMax": 15
+    },
+    {
+      "level": 3,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 4,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 2
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

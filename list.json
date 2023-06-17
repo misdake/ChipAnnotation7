@@ -43,7 +43,7 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Atom",
-    "name": "Silvermont(BayTrail)",
+    "name": "BayTrail",
     "listname": "Silvermont(BayTrail)",
     "url": "https://misdake.github.io/ChipAnnotationData7/BayTrail"
   },
